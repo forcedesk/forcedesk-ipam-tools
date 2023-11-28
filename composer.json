@@ -1,11 +1,10 @@
 {
   "name": "schooldesk/ipam-tools",
   "type": "library",
-  "description": "Network calculator for subnet mask and other classless (CIDR) network information.",
-  "keywords": ["ipv4", "subnet", "calculator", "network", "cidr", "address", "ip"],
-  "homepage": "https://github.com/markrogoyski/ipv4-subnet-calculator-php",
+  "description": "Contains IP Addressing Tools for use within the SchoolDesk System.",
+  "homepage": "https://schooldesk.education",
   "require": {
-    "php": ">=7.2.0"
+    "php": "^8.2"
   },
   "require-dev": {
     "phpunit/phpunit": "^8.5",
@@ -24,10 +23,10 @@
   },
   "authors": [
     {
-      "name": "Mark Rogoyski",
-      "email": "mark@rogoyski.com",
-      "homepage": "https://github.com/markrogoyski",
-      "role": "Lead Developer"
+      "name": "Samuel Brereton",
+      "email": "sam@sambrereton.net.au",
+      "homepage": "https://github.com/sbrereton",
+      "role": "SchoolDesk Developer"
     }
   ],
   "license": "MIT"
