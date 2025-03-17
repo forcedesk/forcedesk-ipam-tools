@@ -1,8 +1,8 @@
 {
-  "name": "schooldesk/ipam-tools",
+  "name": "forcedesk/forcedesk-ipam-tools",
   "type": "library",
-  "description": "Contains IP Addressing Tools for use within the SchoolDesk System.",
-  "homepage": "https://schooldesk.education",
+  "description": "Contains IP Addressing Tools for use within the ForceDesk System.",
+  "homepage": "https://forcedesk.io",
   "require": {
     "php": "^8.2"
   },
@@ -23,10 +23,10 @@
   },
   "authors": [
     {
-      "name": "Samuel Brereton",
+      "name": "ForcePoint Software",
       "email": "sam@sambrereton.net.au",
-      "homepage": "https://github.com/sbrereton",
-      "role": "SchoolDesk Developer"
+      "homepage": "https://github.com/forcedesk",
+      "role": "ForceDesk Developer"
     }
   ],
   "license": "MIT"
